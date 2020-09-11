@@ -12,7 +12,7 @@
     "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm run install-client && npm run build"
   },
-  "author": "",
+  "author": "Aman Kumar Jha",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"

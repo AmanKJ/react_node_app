@@ -18,6 +18,7 @@ function App() {
     <div>
       <h1>Header</h1>
       <div>{response}</div>
+      {console.log("Front-end Loaded!")}
     </div>
   );
 }
