@@ -9,7 +9,7 @@ React and Node Combined in same project.
 
 If you don't add NPM_CONFIG_PRODUCTION=false then the modules installations will result in an error on Heroku.
 
-# This project is also configured for Heroku. You can easily deploy it without any other setup.
+# This project is also configured for Heroku. You can easily deploy it without any additional setup.
 
 **NOTE**: Make sure to run npm install if you want to run this on localhost.
 
