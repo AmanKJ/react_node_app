@@ -14,7 +14,12 @@ function App() {
     return body;
   };
 
-  return <div>{response}</div>;
+  return (
+    <div>
+      <h1>Header</h1>
+      <div>{response}</div>
+    </div>
+  );
 }
 
 export default App;
